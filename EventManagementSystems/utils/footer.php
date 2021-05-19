@@ -13,15 +13,15 @@
 
                     <p class = "footerSubtext2">
                         Kill Avenue, Dun Laoghaire, Co. Dublin
-                        &copy; Urban Events Venue & Catering, 2016.
+                        &copy;  Eventia Event Venue & Catering, 2021.
                     </p>
                 </div>
             </section>
             <section>
                 <div class = "footcontent col-md-4"><!--middle content-->
-                    DL824 Multimedia Design/Web Engineering<br>
-                    Creative Computing 2015-2016.<br>
-                    Julz Engracio, N00145647
+                    Multimedia Design/Web Engineering<br>
+                    Creative Computing 2020-2021.<br>
+                    Eisha Saleem, N00145647
                 </div>
             </section>
             <section>
